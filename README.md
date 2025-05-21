@@ -4,7 +4,7 @@
 
 ## 網站連結
 
-訪問我的履歷網站：[https://jonny50905.github.io/Ilsa-s-Resume/](https://jonny50905.github.io/Ilsa-s-Resume/)
+訪問我的履歷網站：[https://jonny50905.github.io/](https://jonny50905.github.io/)
 
 ## 網站概述
 
@@ -28,7 +28,7 @@
 ## 如何瀏覽
 
 您可以通過以下URL訪問我的履歷網站：
-[https://[您的GitHub用戶名].github.io/[您的倉庫名稱]/](https://[您的GitHub用戶名].github.io/[您的倉庫名稱]/)
+[https://jonny50905.github.io/](https://jonny50905.github.io/)
 
 ## 本地開發
 
@@ -36,7 +36,7 @@
 
 1. 克隆此倉庫：
    ```
-   git clone https://github.com/[您的GitHub用戶名]/[您的倉庫名稱].git
+   git clone https://github.com/jonny50905/jonny50905.github.io.git
    ```
 2. 使用瀏覽器打開 `index.html` 文件
 
