@@ -2,6 +2,10 @@
 
 這是我的個人履歷網站，使用 GitHub Pages 託管。
 
+## 網站連結
+
+訪問我的履歷網站：[https://jonny50905.github.io/Ilsa-s-Resume/](https://jonny50905.github.io/Ilsa-s-Resume/)
+
 ## 網站概述
 
 此網站展示了我的專業背景、技能和工作經驗。內容包括：
