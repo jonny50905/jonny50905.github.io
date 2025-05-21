@@ -1,0 +1,33 @@
+# 忽略系統檔案
+.DS_Store
+Thumbs.db
+
+# 忽略編輯器配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 忽略暫存檔與包管理檔案
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# 忽略建構產出
+dist/
+build/
+out/
+
+# 忽略環境變數與機密檔案
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 其他不需要追蹤的檔案
+*.log
+*.tmp
+*.temp
