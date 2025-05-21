@@ -1,4 +1,4 @@
-# 林孝穎 (Johnny) 個人履歷網站
+# Johnny's Resume Website
 
 這是我的個人履歷網站，使用 GitHub Pages 託管。
 
@@ -42,8 +42,7 @@
 
 ## 聯繫方式
 
-- 電子郵件：Jonny50905@gmail.com
-- 電話：0918-933-398
+- 如需聯繫，請訪問網站聯絡區域
 
 ---
-© 2025 林孝穎 (Johnny). All Rights Reserved.
+© 2025 Johnny. All Rights Reserved.
